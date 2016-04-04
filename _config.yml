@@ -1,6 +1,6 @@
 name: LaPagina
 favicon: null
-layout_spectrum: 0.9459150249604136
+layout_spectrum: 0.62664
 typography_spectrum: 0.7148872029501945
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#e62a36'
+    - '#465126'
+    - '#eeb8b6'
+    - '#0f1305'
   brandStrength: 0.4432693354319781
   lightness: 0.31551480456255376
   saturation: 0.6948045010212809
